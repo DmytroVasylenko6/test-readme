@@ -1,5 +1,5 @@
 # CLI Personal Assistant
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+agent++007)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome,+Agent++007!)](https://git.io/typing-svg)
 
 ## Description
 A CLI organizer that can help store contacts' phone numbers and birthday dates.
