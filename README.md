@@ -23,6 +23,9 @@ Run `pip install py_brigade_personal_assistant` to install the package and then 
 - `all` - to list all the contacts and their phone numbers;
 - `help` - to show the list of available commands for the address book;
 - `back / return / -` - to exit the address book;
+
+
+### Contacts commands
 | Command                         |    Options           | Description                                                           |
 | ---                             |                      | ---                                                                   |
 | 🗂️ __Contact Commands__         |                      |                                                                       |
