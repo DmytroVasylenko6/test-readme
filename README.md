@@ -14,32 +14,23 @@ Run `pip install py_brigade_personal_assistant` to install the package and then 
 - `notes` - to enter the notes interface;
 - `close` or `exit` - to exit the personal assistant;
 
-## Contacts Interface
-
-- `add + name + phone` - to add a contact and its phone number;
-- `delete / remove + name` - to delete the contact;
-- `find + text` - to search a contact from your list by name, phone, email, or address;
-- `num-contacts` - to show the number of contacts;
-- `all` - to list all the contacts and their phone numbers;
-- `help` - to show the list of available commands for the address book;
-- `back / return / -` - to exit the address book;
-
 
 ### Contacts Interface
-| Command                         |    Options           | Description                                                           |
-| ---                             |  ---                 | ---                                                                   |
-| 🗂️ __Contact Commands__                                                                                                        |
-| `add`                           |   name, phone        | to add a contact and its phone number;                                |
-| `find`                          |   text               | to search a contact from your list by name, phone, email, or address; |
-| `delete / remove`               |   name               | to delete the contact;                                                |
-| `num-contacts`                  |   text               | to show the number of contacts;                                       |
-| `all`                           |   -                  | to list all the contacts and their phone numbers;                     |
+| Command                         |    Options                                | Description                                                           |
+| ---                             |  ---                                      | ---                                                                   |
+| 🗂️ __Contact__                                                                                                                                      |
+| `add`                           |   name, phone                             | to add a contact and its phone number;                                |
+| `find`                          |   text                                    | to search a contact from your list by name, phone, email, or address; |
+| `delete / remove`               |   name                                    | to delete the contact;                                                |
+| `num-contacts`                  |   text                                    | to show the number of contacts;                                       |
+| `all`                           |   -                                       | to list all the contacts and their phone numbers;                     |
+| `help`                          |   -                                       | to show the list of available commands for the address book;          |
+| `back / return / -`             |   -                                       | to exit the address book;                                             |
+| 🗂️ __Phone__                                                                                                                   |
+| `show-phone`                    |   name                                    | to list all the phone numbers associated with the contact;            |
+| `change-phone`                  |   name, old name, new phone               | to change the phone number;                                           |
+| `delete-phone / remove-phone`   |   name, phone                             | to change the phone number;                                           |
 
-
-### Phone
-- `show-phone + name` - to list all the phone numbers associated with the contact; 
-- `change-phone + name + old phone + new phone` - to change the phone number;
-- `delete-phone / remove-phone + name + phone` - to remove the phone number;
 
 ### Birthday
 - `add-birthday + name + DD.MM.YYYY` - to add birthday;
