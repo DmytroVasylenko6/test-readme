@@ -1,4 +1,5 @@
 # CLI Personal Assistant
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+agent++007)](https://git.io/typing-svg)
 
 ## Description
 A CLI organizer that can help store contacts' phone numbers and birthday dates.
@@ -22,14 +23,6 @@ to get started.<br><br>
 | `contacts`                      |   -                                       | to enter the address book interface;                                       |
 | `notes`                         |   -                                       | to enter the notes interface;                                              |
 | `close / exit`                  |   -                                       | to exit the personal assistant;                                            |
-
-
-**The list of available commands is as follows:**
-
-- `hi` or `hello` or `greeting` - to say hi to your favorite PA!
-- `contacts` - to enter the address book interface;
-- `notes` - to enter the notes interface;
-- `close` or `exit` - to exit the personal assistant;
 
 
 ### Contacts Interface
