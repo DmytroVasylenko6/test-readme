@@ -27,7 +27,7 @@ Run `pip install py_brigade_personal_assistant` to install the package and then 
 
 ### Contacts commands
 | Command                         |    Options           | Description                                                           |
-| ---                             |                      | ---                                                                   |
+| ---                             |  ---                 | ---                                                                   |
 | 🗂️ __Contact Commands__         |                      |                                                                       |
 | `add`                           |   name, phone        | to add a contact and its phone number;                                |
 | `delete / remove`               |   name               | to delete the contact;                                                |
