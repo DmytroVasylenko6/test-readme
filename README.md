@@ -25,13 +25,14 @@ Run `pip install py_brigade_personal_assistant` to install the package and then 
 - `back / return / -` - to exit the address book;
 
 
-### Contacts commands
+### Contacts Interface
 | Command                         |    Options           | Description                                                           |
 | ---                             |  ---                 | ---                                                                   |
-| 🗂️ __Contact Commands__         |                      |                                                                       |
+| 🗂️ __Contact Commands__                                                                                                        |
 | `add`                           |   name, phone        | to add a contact and its phone number;                                |
+| `find`                          |   text               | to search a contact from your list by name, phone, email, or address; |
 | `delete / remove`               |   name               | to delete the contact;                                                |
-| `num-contacts`                  |   text               | to search a contact from your list by name, phone, email, or address; |
+| `num-contacts`                  |   text               | to show the number of contacts;                                       |
 | `all`                           |   -                  | to list all the contacts and their phone numbers;                     |
 
 
