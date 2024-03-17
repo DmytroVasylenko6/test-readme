@@ -15,6 +15,15 @@ get-started
 ```
 to get started.<br><br>
 
+### Main menu
+| Command                         |    Values                                 | Description                                                                |
+| ---                             |  ---                                      | ---                                                                        |
+| `hi / hello / greeting`         |   -                                       | to say hi to your favorite PA!                                             |
+| `contacts`                      |   -                                       | to enter the address book interface;                                       |
+| `notes`                         |   -                                       | to enter the notes interface;                                              |
+| `close / exit`                  |   -                                       | to exit the personal assistant;                                            |
+
+
 **The list of available commands is as follows:**
 
 - `hi` or `hello` or `greeting` - to say hi to your favorite PA!
@@ -57,12 +66,12 @@ to get started.<br><br>
 ## Notes Interface
 | Command                                  |    Values                                                 | Description                                                                |
 | ---                                      |  ---                                                      | ---                                                                        |
-| 🤙 __Contact__                                                                                                                                                                    |
+| 📝 __Notes__                                                                                                                                                                       |
 | `add`                                    |   additional inputs                                       | to create a note;                                                          |
-| `search / seek / find / filter / grep`   |   additional name=<text> / tag=<text> / text=<text>       | to search a contact from your list by name, phone, email, or address;      |
+| `search / seek / find / filter / grep`   |   name=<text> / tag=<text> / text=<text>                  | to search a contact from your list by name, phone, email, or address;      |
 | `edit / upd / update / change / ch`      |   additional inputs                                       | to change one note;                                                        |
 | `remove / delete / del / rm`             |   additional inputs                                       | to remove one note by ordinal number;                                      |
-| `find`                                   |   additional name=<text> / tag=<text> / text=<text>       | to show all notes that contain the keyword;                                |
+| `find`                                   |   name=<text> / tag=<text> / text=<text>                  | to show all notes that contain the keyword;                                |
 | `show / all / list / ls`                 |   -                                                       | to list all notes with a ordinal number and note text;                     |
 | `help`                                   |   -                                                       | to show the list of available commands for notes;                          |
 | `back / return / `                       |   -                                                       | to exit notes;                                                             |
